@@ -1,2 +1,2 @@
-# DE-101
+# data_engineering
 Для прохождения курса Data learn.
