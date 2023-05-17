@@ -2,3 +2,4 @@
 
 ## 1. Новый репозиторий ✅
 ## 2. Диаграмма в Draw.io ✅
+![архитектура аналитического решения](https://github.com/rouborgen/data_engineering/assets/119359983/6fcd9243-dfa7-49fe-9f51-86d8c3892e87)
